@@ -1,6 +1,6 @@
 # firebase_chat_app
 
-Firebase Chat App.
+Firebase Chat App Flutter.
 
 ## Getting Started
 
